@@ -4,3 +4,12 @@ body {
 	background-color: hsl(0, 0%, 95%)
 }
 
+/* Estrutura */
+.container {
+	width: 55rem;
+	height: 25rem;
+	display: block;
+	margin: 0 auto;
+	margin-top: 7rem;
+	background-color: black;	
+}
