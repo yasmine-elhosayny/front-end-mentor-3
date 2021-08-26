@@ -13,3 +13,24 @@ body {
 	margin-top: 7rem;
 	background-color: black;	
 }
+
+/* Colunas */
+#colunas {
+	width: 55rem;
+	height: 25rem;
+	display: flex;
+	flex-direction: row;
+}
+#col-1, #col-2, #col-3 {
+	width: 19rem;
+	height: 25rem;
+}
+#col-1 {
+	background-color: hsl(31, 77%, 52%);
+}
+#col-2 {
+	background-color: hsl(184, 100%, 22%);
+}
+#col-3 {
+	background-color: hsl(179, 100%, 13%);
+}
