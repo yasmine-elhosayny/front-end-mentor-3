@@ -43,3 +43,22 @@ body {
 	margin: 0 auto;
 	margin-top: 2rem;
 }
+
+/* Texto */
+#texto h1 {
+	font-family: Big Shoulders Display;
+	text-transform: uppercase;
+	color: hsl(0, 0%, 95%);
+}
+#texto p {
+	font-family: Lexend Deca;
+	color: hsla(0, 0%, 100%, 0.75);
+}
+
+
+
+
+
+
+
+
