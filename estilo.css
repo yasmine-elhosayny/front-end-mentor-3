@@ -55,9 +55,46 @@ body {
 	color: hsla(0, 0%, 100%, 0.75);
 }
 
-
-
-
+/* Botões */
+.button1 {
+	background-color: hsl(0, 0%, 95%);
+  	border: none;
+  	color: hsl(31, 77%, 52%);
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	font-family: Lexend Deca;
+  	border-radius: 1.5rem;
+  	margin-top: 2rem;
+}
+.button2 {
+	background-color: hsl(0, 0%, 95%);
+  	border: none;
+  	color: hsl(184, 100%, 22%);
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	font-family: Lexend Deca;
+  	border-radius: 1.5rem;
+  	margin-top: 2rem;
+}
+.button3 {
+	background-color: hsl(0, 0%, 95%);
+  	border: none;
+  	color: hsl(179, 100%, 13%);
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	font-family: Lexend Deca;
+  	border-radius: 1.5rem;
+  	margin-top: 2rem;
+}
 
 
 
