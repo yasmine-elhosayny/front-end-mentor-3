@@ -34,3 +34,12 @@ body {
 #col-3 {
 	background-color: hsl(179, 100%, 13%);
 }
+
+/* Conteúdo */
+#conteudo {
+	width: 15rem;
+	height: 21rem;
+	display: block;
+	margin: 0 auto;
+	margin-top: 2rem;
+}
