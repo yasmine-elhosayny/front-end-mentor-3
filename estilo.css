@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-color: hsl(0, 0%, 95%)
+	background-color: hsl(0, 0%, 95%);
 }
 
 /* Estrutura */
@@ -96,6 +96,43 @@ body {
   	margin-top: 2rem;
 }
 
+@media only screen and (max-width: 800px) {
+	body {
+		margin: 0;
+		padding: 0;
+		background-color: hsl(0, 0%, 95%);
+	}
 
+	/* Estrutura */
+	.container {
+		width: 80%;
+		height: 5%;
+		display: block;
+		margin: 0 auto;
+		margin-top: 10%;
+		margin-bottom: 10%;
+	}
 
+	/* Colunas */
+	#colunas {
+		width: 100%;
+		height: 5%;
+		display: flex;
+		flex-direction: column;
+	}
 
+	#col-1, #col-2, #col-3 {
+		width: 100%;
+		height: 5%;
+	}
+
+	/* Conteúdo */
+	#conteudo {
+		width: 80%;
+		height: 5%;
+		display: block;
+		margin: 0 auto;
+		margin-top: 10%;
+    	margin-bottom: 10%;
+	}
+}
